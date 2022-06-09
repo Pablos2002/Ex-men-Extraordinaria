@@ -1,0 +1,107 @@
+html{
+    background-color: lightgoldenrodyellow;
+}
+
+.titulo{
+    text-align: center;
+    text-decoration: underline blue;
+    color: orange;
+}
+
+.smr{
+    background-color: lightpink;
+}
+
+.imagensmr{
+    position: relative;
+    left: 490px;
+    width: 250px;
+    top: 20px;
+}
+
+.enlacesmr{
+    position: relative;
+    bottom: 145px;
+    left: 490px;
+}
+
+.dam{
+    background-color: gray;
+}
+
+.imagendam{
+    position: relative;
+    left: 750px;
+    width: 250px;
+    top: 20px;
+}
+
+.enlacedam{
+    position: relative;
+    bottom: 152px;
+    left: 844px;
+}
+
+.asir{
+    background-color: lightblue;
+}
+
+.imagenasir{
+    position: relative;
+    left: 1080px;
+    width: 250px;
+    top: 20px;
+}
+
+.enlaceasir{
+    position: relative;
+    bottom: 169px;
+    left: 1080px;
+}
+
+
+.autor1{
+    background-color: yellow;
+    color: blue;
+    border: solid gray;
+    height: 50px;
+    text-align: center;
+}
+
+.autor2{
+    color: red;
+}
+
+.titulo2{
+    text-align: center;
+    text-decoration: underline blue;
+    color: orange;
+}
+
+
+.autor3{
+    background-color: yellow;
+    color: blue;
+    border: solid gray;
+    height: 50px;
+    text-align: center;
+    position: relative;
+
+}
+
+.autor4{
+    color: red;
+}
+
+.formulario{
+    color: goldenrod;
+}
+
+.nombre{
+    width: 500px;
+}
+
+.añodenacimiento{
+    width: 300px;
+}
+
